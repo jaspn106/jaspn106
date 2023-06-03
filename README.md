@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in finding a programming/coding/software engineering job
-- 🌱 I’m currently learning python and PySide6
+- 🌱 I’m currently learning anything (Fullstack and python currently)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at jasonmartens2@gmail.com
 
